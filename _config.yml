@@ -1,0 +1,6 @@
+# GitHub Pages: renders README.md as the public page of this list.
+title: Awesome Free Web Tools
+description: Free online tools for link previews, SEO, images, PDFs, icons and developers. Most need no sign-up, and files are processed in your browser.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
