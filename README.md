@@ -4,7 +4,7 @@
 
 Every tool in this list is part of [**CachePlex**](https://www.cacheplex.com/), a free toolkit for website owners, marketers, developers and anyone who has ever asked *"why won't this photo open?"* or *"why does my link show the wrong image on WhatsApp?"*. Each entry says what the tool does, the questions it answers, and links straight to it.
 
-**Quick links:** [All tools](https://www.cacheplex.com/tools) · [Troubleshooting guides](https://www.cacheplex.com/blog) · [llms.txt](https://www.cacheplex.com/llms.txt)
+**Quick links:** [All tools](https://www.cacheplex.com/tools) · [Troubleshooting guides](https://www.cacheplex.com/blog) · [Which free tools do you actually need?](https://www.cacheplex.com/blog/free-tools-you-need-to-run-a-website) · [llms.txt](https://www.cacheplex.com/llms.txt)
 
 ---
 
@@ -321,6 +321,8 @@ Minify CSS to shrink stylesheets and improve load times without changing how the
 ## Troubleshooting Guides
 
 Step-by-step answers to specific problems, each linking to the tool that fixes it.
+
+Start here: **[What Free Tools Do You Actually Need to Run a Website? A Working Toolkit](https://www.cacheplex.com/blog/free-tools-you-need-to-run-a-website)**, which walks through this list by the problem each tool solves.
 
 **Link previews and social media**
 - [Link Preview Showing the Wrong Image? How to Clear the Cache on Every Platform](https://www.cacheplex.com/blog/link-preview-showing-wrong-image)
