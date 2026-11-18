@@ -316,6 +316,14 @@ Minify CSS to shrink stylesheets and improve load times without changing how the
 - **Price:** Free, no sign-up.
 - 🔗 **[Open the CSS Minifier](https://www.cacheplex.com/css-minifier/)**
 
+### TheToolGenius
+
+A suite of 35+ client-side web utilities for developers and everyday tasks, including JSON formatters, Base64 encoders, and image/PDF manipulation. Everything runs 100% locally in your browser.
+
+- **Answers:** How can I format code or edit PDFs without uploading sensitive files to a server?
+- **Price:** 100% Free, no sign-up, zero server uploads.
+- 🔗 **[Open TheToolGenius](https://thetoolgenius.online/)**
+
 ---
 
 ## Troubleshooting Guides
